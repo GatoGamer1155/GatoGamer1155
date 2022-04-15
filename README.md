@@ -2,4 +2,4 @@
 
 -> https://app.hackthebox.com/profile/836785 (actualmente problemas con rango)
 
-<img src="https://cdn.discordapp.com/attachments/933074927131697213/962751923625295933/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/933074927131697213/964616079043342396/unknown.png">

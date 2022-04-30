@@ -2,4 +2,4 @@
 
 -> https://app.hackthebox.com/profile/836785 (Cuenta reiniciada, iniciando de nuevo)
 
-<img src="https://cdn.discordapp.com/attachments/933074927131697213/964616079043342396/unknown.png">
+<img src="https://raw.githubusercontent.com/GatoGamer1155/imagenes-repositorios/main/1155.png">

@@ -2,4 +2,4 @@
 
 -> https://app.hackthebox.com/profile/836785 (Cuenta reiniciada, sin actividad actualmente)
 
-<img src="https://raw.githubusercontent.com/GatoGamer1155/imagenes-repositorios/main/1155.png">
+<img src="https://raw.githubusercontent.com/GatoGamer1155/imagenes-repositorios/main/profile.png">
